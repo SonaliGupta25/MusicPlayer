@@ -297,6 +297,9 @@ aside h3{
 	/*margin-left:-15%;*/
 
 }
+.right{
+	left: 140px;
+}
 #song-image{
 	margin:5px;
 	margin-left:0.5%;
